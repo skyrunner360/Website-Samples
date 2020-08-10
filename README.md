@@ -1,10 +1,11 @@
 # Website-Samples By Rishi Mathur
 
 These are some websites that I made while learning HTML and CSS. 
-`They are not deployable, They are only meant to be used as samples.`
-- __The Gadgetopedia Website is developed using BootStrap and HTML__
+`They are not deployable, They are only meant to be used as samples.
 
 ![GitHub followers](https://img.shields.io/github/followers/skyrunner360?label=Follow&style=social) ![Twitter Follow](https://img.shields.io/twitter/follow/skyrunner360?style=social) 
+`
+- __The Gadgetopedia Website is developed using BootStrap and HTML__
 
 ![Alt text](./w2.png "Gadgetopedia Homepage")
 ![Alt text](./w3.png "dropdown menu")
